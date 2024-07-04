@@ -1,0 +1,109 @@
+.navbar {
+    background-color: #1e202b;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.navbar-brand {
+    font-size: 1rem;
+}
+
+.text-bg-dark {
+    font-size: 0.6rem;
+}
+
+.photo {
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
+.search0 {
+    background-color: #1e202b;
+    padding: 1rem 0rem;
+    border-radius: 10rem;
+    border: hidden;
+    color: white;
+
+}
+
+.butt {
+    margin-top: 0.3rem;
+    padding: 0.7rem 2.5rem;
+    border-radius: 10rem;
+    background-color: #009ad8;
+    border: hidden;
+    margin-right: 0.3rem;
+}
+
+.inpu {
+    padding-top: 4rem;
+}
+
+.bg-col {
+    background-color: #1e202b;
+    padding: 8rem 0rem;
+
+}
+
+.bg-coo {
+    background-color: #262936;
+    padding-top: 1rem;
+    padding-bottom: 1.5rem;
+}
+
+.textprag {
+    color: #bfc1c8;
+}
+
+.card {
+    margin-top: 5rem;
+    background-color: #262936;
+    color: rgb(191, 193, 200);
+}
+
+.card1 {
+    margin-top: 5rem;
+    background-color: #262936;
+    color: rgb(191, 193, 200);
+
+}
+
+.phot {
+    width: 6rem;
+}
+
+.icons {
+    margin-left: 5rem;
+}
+
+i {
+    padding: 0.8rem;
+    margin-top: 3rem;
+    color: #009ad8;
+    background-color: #1e202b;
+    border-radius: 50%;
+}
+
+i:hover {
+    color: white;
+    background-color: #009ad8;
+}
+
+.dagraa {
+    font-size: 4rem;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+    .dagraa {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .bg-col {
+        background-color: #1e202b;
+        padding: 20rem 0rem 50rem 0rem;
+    }
+}
